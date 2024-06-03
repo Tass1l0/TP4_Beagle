@@ -1,7 +1,7 @@
 # TP4_Beagle
 
 Boujour Monsieur,
-dans ce repo, vous trouverez nôtre TP4 d'EMSY.
+vous trouverez dans ce repo nôtre TP4 d'EMSY.
 
 Le pdf "fichier commandes" décrit les commandes utiliser dans putty
 
